@@ -1,0 +1,23 @@
+.Player {
+    background-color: aquamarine;
+    max-width: 300px;
+    box-sizing: border-box;
+    padding: 5px;
+    border: 1px solid blue;
+}
+
+.Player__score {
+    margin: 0 8px;
+    color: blue;
+}
+
+.Player__button_plus {
+    border: 1px solid black;
+    padding:  1px 1px;
+    margin-right: 4px;
+}
+
+.Player__button_minus {
+    border: 1px solid black;
+    padding:  1px 3px;
+}
